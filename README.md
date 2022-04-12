@@ -22,7 +22,7 @@ When using the data, please cite the repository and the journal paper as well:
 
 Ferdinandy B, Gerencsér L, Corrieri L, Perez P, Újváry D, Csizmadia G, et al. (2020) Challenges of machine learning model validation using correlated behaviour data: Evaluation of cross-validation strategies and accuracy measures. PLoS ONE 15(7): e0236092. https://doi.org/10.1371/journal.pone.0236092
 
-Bence Ferdinandy. (2020, July 21). priestoferis/animal-behaviour-analysis-2020: v1.1.1 (Version v1.1.1). Zenodo. http://doi.org/10.5281/zenodo.3953387
+Bence Ferdinandy. (2020, July 21). ferdinandyb/animal-behaviour-analysis-2020: v1.1.2 (Version v1.1.2). Zenodo. http://doi.org/10.5281/zenodo.3887208
 
 ```
 @article{Ferdinandy2020,
